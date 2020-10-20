@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Franciellirodrigues/Franciellirodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Olá <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a> Seja bem vindo (a)!!
+Meu nome é Francielli 👩🏻
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, nos últimos meses venho estudando desenvolvimento Web.
+
+Sou apaixonada por aprender, estou sempre aberta a novos desafios e pronta para mudanças.
+
+### [](https://github.com/Franciellirodrigues#-quanto-mais-eu-sei-mais-eu-sou-)🌍 "Quanto mais eu sei, mais eu sou" 🧠
+
+"Nada neste mundo supera a boa e velha persistência."
+
+
+
+  <a href="https://www.linkedin.com/in/franciellirodrigues/" rel="nofollow"><img src="https://camo.githubusercontent.com/5aab85a665e4ae02c797985305e192103f6f8ce3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f697361646f72612d726f647269677565732d7374616e6761726c696e2d3438343032623134312f" alt="Emblema Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/franciellirodrigues/" style="max-width:100%;"></a>
