@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # Olá <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a> Seja bem vindo (a)!!
 Meu nome é Francielli 👩🏻
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, nos últimos meses venho estudando desenvolvimento Web.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+👩🏻‍💻 Desenvolvedora  front-end em evolução
 
 Sou apaixonada por aprender, estou sempre aberta a novos desafios e pronta para mudanças.
 
