@@ -21,7 +21,7 @@ Meu nome é Francielli 👩🏻
 
 👩🏻‍💻 Desenvolvedora  front-end em evolução
 
-![Francielli Rodrigues's github stats](https://github-readme-stats.vercel.app/api?username=Franciellirodrigues&show_icons=true&theme=Gradiente)
+![Francielli Rodrigues's github stats](https://github-readme-stats.vercel.app/api?username=Franciellirodrigues&show_icons=true&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciellirodrigues&theme=material-palenight)](https://github.com/Franciellirodrigues/github-readme-stats)
 
