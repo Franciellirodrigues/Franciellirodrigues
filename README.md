@@ -21,11 +21,9 @@ Meu nome é Francielli 👩🏻
 
 👩🏻‍💻 Desenvolvedora  front-end em evolução
 
-Sou apaixonada por aprender, estou sempre aberta a novos desafios e pronta para mudanças.
+![Francielli Rodrigues's github stats](https://github-readme-stats.vercel.app/api?username=Franciellirodrigues&show_icons=true&theme=Gradiente)
 
-### [](https://github.com/Franciellirodrigues#-quanto-mais-eu-sei-mais-eu-sou-)🌍 "Quanto mais eu sei, mais eu sou" 🧠
-
-"Nada neste mundo supera a boa e velha persistência."
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciellirodrigues&theme=material-palenight)](https://github.com/Franciellirodrigues/github-readme-stats)
 
 
 
