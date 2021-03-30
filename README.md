@@ -1,5 +1,5 @@
-## Olá, seja bem-vindo(a) 👋🏼
-### 🦸🏻‍♀️ Um pouco sobre mim:
+## Olá, seja bem-vindo(a) 👋🏼 
+###  <img align="center" alt="boo" height="60" width="80" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"> Um pouco sobre mim: 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🚀 Desenvolvedora front-end em desenvolvimento
 
