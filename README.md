@@ -16,4 +16,4 @@
 <!--
 **kahpereira/kahpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- ![Snake animation](https://github.com/Franciellirodrigues/Franciellirodrigues/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
