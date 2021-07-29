@@ -1,17 +1,23 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=beatriznonato&repo=Franciellirodrigues&countColorcountColor)
-## Olá, seja bem-vindo(a) 👋🏼 
-###  <img align="center" alt="boo" height="60" width="80" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"> Um pouco sobre mim: 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvedora front-end em desenvolvimento
+<div>
+  <a href="https://github.com/Franciellirodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franciellirodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciellirodrigues&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-### 📫 Entre em contato comigo:
-<a href="https://www.linkedin.com/in/franciellirodrigues/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"">
-  </a> <a href="mailto:contato.franciellirodrigues@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a> <a href="https://www.instagram.com/franciellirodriguess/"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-
+</div>
   
-### 📊 GitHub estatísticas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciellirodrigues&layout=compact&hide_border=true&theme=radical)](https://github.com/Franciellirodrigues/github-readme-stats)<br>
-<!--[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&include_all_commits=true&hide=issues&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)
-                                                                                                                  
-
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/franciellirodriguess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato.franciellirodrigues@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franciellirodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
