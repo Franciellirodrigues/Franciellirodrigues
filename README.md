@@ -3,7 +3,7 @@
 💻 I currently work at an insurance brokerage as an administrative assistant.<br>
 👩🏻‍💻 I am a Systems Analysis and Development student, currently studying front-end technologies to make the career transition.<br><br>
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <a href="https://github.com/Franciellirodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franciellirodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciellirodrigues&layout=compact&langs_count=7&theme=dracula"/>
