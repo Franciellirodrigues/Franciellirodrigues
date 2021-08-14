@@ -1,7 +1,7 @@
 ## Oiii! Seja Bem Vindo (a) ☺
 
-💻 I currently work at an insurance brokerage as an administrative assistant.
-👩🏻‍💻 I am a Systems Analysis and Development student, currently studying front-end technologies to make the career transition.
+💻 I currently work at an insurance brokerage as an administrative assistant.<br>
+👩🏻‍💻 I am a Systems Analysis and Development student, currently studying front-end technologies to make the career transition.<br><br>
 
 <div style="display: inline_block">
   <a href="https://github.com/Franciellirodrigues">
