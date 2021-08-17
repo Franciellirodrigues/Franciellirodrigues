@@ -14,7 +14,7 @@
   <img align="center" alt="fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fran-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="fran-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="right" alt="Fran-img" src="https://i.picasion.com/pic91/3f60649fd0b9fa353372046cfa7f6574.gif">
+  <img align="right" alt="Fran-img" src="https://i.picasion.com/pic91/44ae6277d0a7bca9134a8426f2f64ade.gif">
 
 
 </div>
