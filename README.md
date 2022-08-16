@@ -1,7 +1,5 @@
-## Oiii! Seja Bem Vindo (a) ☺
+## Hi 👋, welcome!
 
-💻 I currently work at an insurance brokerage as an administrative assistant.<br>
-👩🏻‍💻 I have a degree in Systems Analysis and Development, currently studying front-end technologies to make a career transition.<br>
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Franciellirodrigues">
