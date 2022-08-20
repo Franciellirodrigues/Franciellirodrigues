@@ -1,5 +1,8 @@
 ## Hi 👋, welcome!
 
+<br>
+- 🌱 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
+
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Franciellirodrigues">
@@ -11,8 +14,9 @@
   <img align="center" alt="fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fran-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>
   <img align="center" alt="fran-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="right" alt="Fran-img" src="https://i.picasion.com/pic91/44ae6277d0a7bca9134a8426f2f64ade.gif">
+  <img align="right" alt="Fran-img" height="160" width="160" src="https://ik.imagekit.io/atnyozbx9v/download20220806190926_8kQ1PTrC8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661033644353">
 
 
 </div>
