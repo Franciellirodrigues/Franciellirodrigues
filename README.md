@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="fran-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="right" alt="Fran-img" height="160" width="160" src="https://ik.imagekit.io/atnyozbx9v/download20220806190926_8kQ1PTrC8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661033644353">
+  <img align="right" alt="Fran-img" height="160" width="160" src="https://ik.imagekit.io/atnyozbx9v/download20220804105144_MeUdOwH5U.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661435521176">
 
 
 </div>
