@@ -1,5 +1,3 @@
-## Hi 👋, welcome!
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Francielli%20Rodrigues&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
 - 🌱 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
