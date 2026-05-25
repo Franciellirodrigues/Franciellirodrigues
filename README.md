@@ -6,7 +6,7 @@
 <a href="https://github.com/franciellirodrigues"><img align='right' alt="Francielli-Avatar" height="130em" src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif"/></a>
 
 <div align='start'>
-  I am a <b>Front-End Developer</b> transitioning and expanding my expertise into <b>DevSecOps</b>. I love bridging the gap between building beautiful, efficient user interfaces and ensuring they are securely built, tested, and deployed.<br><br>
+  I am a <b>Front-End Developer</b> and expanding my expertise into <b>DevSecOps</b>. I love bridging the gap between building beautiful, efficient user interfaces and ensuring they are securely built, tested, and deployed.<br><br>
   - 🔭 I'm currently working with <b>TypeScript, Next.js</b> and implementing security guardrails in the development lifecycle.<br>
   - 🌱 I’m actively studying <b>DevSecOps practices</b>, Cloud Security, CI/CD pipelines, and infrastructure hardening.<br>
   - 🤝 I'm looking to collaborate with developers and security enthusiasts on open-source projects and joint learning.
