@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient,0:aa87a8,100:e896b8:fbc7d4&height=210&section=header&text=&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=&descAlignY=50">
-
 <h2>Hi, I'm Francielli 👋</h2>
 <p align="left"> <a href="https://github.com/franciellirodrigues"><img src="https://komarev.com/ghpvc/?username=franciellirodrigues&color=ff69b4" alt="Profile views" /></a></p>
 
