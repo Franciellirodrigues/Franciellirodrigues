@@ -46,6 +46,39 @@
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white" alt="SonarQube">
   <img src="https://img.shields.io/badge/Trivy-466BB0?logo=aquasecurity&logoColor=white" alt="Trivy">
 
+  <!-- Seção de Certificações Oficiais -->
+<h3>Key Certifications</h3>
+<p align="start">
+  <!-- Google Cybersecurity Professional -->
+  <a href="https://www.credly.com/badges/de752171-4bbb-4144-9249-d05080960b13" target="_blank">
+    <img height="80em" src="https://i.postimg.cc/mzPSJzBF/ft1.png" alt="Google Cloud PCA" style="margin-right: 10px;" />
+  </a>
+
+  <!-- Google Cloud Professional Cloud Architect -->
+  <a href="https://www.credly.com/badges/77817bb1-0294-4a43-9f40-3fa4391777b8" target="_blank">
+    <img height="80em" src="https://i.postimg.cc/18D27dJR/ft2.png" alt="Google Cloud Professional DevOps Engineer" style="margin-right: 10px;" />
+  </a>
+
+  <!-- Google Cloud Associate Cloud Engineer -->
+  <a href="https://www.credly.com/badges/957c2cbf-9551-4df5-952c-616b907110b3" target="_blank">
+    <img height="80em" src="https://i.postimg.cc/qNnHVqBW/ft3.png" alt="Google Cloud ACE" style="margin-right: 10px;" />
+  </a>
+
+  <!-- CERTIFICAÇÕES AGUARDANDO ATIVAÇÃO (COMENTADAS)
+
+  <!-- Google Cloud Professional Cloud Security Engineer ->
+  <a href="LINK_DO_CREDLY_SECURITY_ENGINEER" target="_blank">
+    <img height="110em" src="https://images.credly.com/images/6211bf43-7f5e-476c-84ed-da3072239614/google-cloud-certified-professional-cloud-security-engineer.png" alt="Google Cloud Professional Security Engineer" style="margin-right: 10px;" />
+  </a>
+
+  <!-- Claude Certified Architect - Foundations ->
+  <a href="LINK_DA_SUA_VERIFICACAO_ANTHROPIC" target="_blank">
+    <img height="110em" src="https://img.shields.io/badge/Claude_Certified-Architect_Foundations-fe5196?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Architect" />
+  </a>
+
+  -->
+</p>
+
   <h4>📌 Find me</h4>
   <a href="mailto:contato.franciellirodrigues@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/franciellirodrigues/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white" alt="Linkedin"></a>
